@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sidebar.github.io/static/css/main.ec28973a.chunk.css",
+    "main.js": "/Sidebar.github.io/static/js/main.d84c9094.chunk.js",
+    "main.js.map": "/Sidebar.github.io/static/js/main.d84c9094.chunk.js.map",
+    "runtime-main.js": "/Sidebar.github.io/static/js/runtime-main.685c1495.js",
+    "runtime-main.js.map": "/Sidebar.github.io/static/js/runtime-main.685c1495.js.map",
+    "static/js/2.6bcace1a.chunk.js": "/Sidebar.github.io/static/js/2.6bcace1a.chunk.js",
+    "static/js/2.6bcace1a.chunk.js.map": "/Sidebar.github.io/static/js/2.6bcace1a.chunk.js.map",
+    "index.html": "/Sidebar.github.io/index.html",
+    "precache-manifest.9c2b0db9a5a9f8ed8a5c88ed42658130.js": "/Sidebar.github.io/precache-manifest.9c2b0db9a5a9f8ed8a5c88ed42658130.js",
+    "service-worker.js": "/Sidebar.github.io/service-worker.js",
+    "static/css/main.ec28973a.chunk.css.map": "/Sidebar.github.io/static/css/main.ec28973a.chunk.css.map",
+    "static/js/2.6bcace1a.chunk.js.LICENSE.txt": "/Sidebar.github.io/static/js/2.6bcace1a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sidebar.github.io/static/media/logo.2bb7da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.685c1495.js",
+    "static/js/2.6bcace1a.chunk.js",
+    "static/css/main.ec28973a.chunk.css",
+    "static/js/main.d84c9094.chunk.js"
+  ]
+}
